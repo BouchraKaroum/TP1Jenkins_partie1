@@ -12,12 +12,12 @@ import com.example.model.Person;
 public class PersonService {
 	ArrayList<Person> persons = new ArrayList<Person>();
 	public PersonService() {
-		Person p = new Person();
+		/*Person p = new Person();
 		p.setId("1");
 		p.setAge(21);
 		p.setFirstName("Meryem");
 		p.setLastName("Alaoui");
-		persons.add(p);
+		persons.add(p);*/
 
 		p = new Person();
 		p.setId("2");
